@@ -34,7 +34,7 @@ HDRDisplayOutputNits=1000
 bUseDesiredScreenHeight=False
 
 [ScalabilityGroups]
-sg.ResolutionQuality=100.000000
+sg.ResolutionQuality=90.000000
 sg.ViewDistanceQuality=0
 sg.AntiAliasingQuality=0
 sg.ShadowQuality=0
